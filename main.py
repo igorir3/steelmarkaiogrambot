@@ -2,7 +2,7 @@ import asyncio
 from aiogram import Bot, Dispatcher, types
 from aiogram.filters.command import Command
 
-bot = Bot(token="6282684768:AAEliTibbdOjkUYPuBnLMKdJ_KZ5heGTlr8")
+bot = Bot(token="")
 dp = Dispatcher()
 
 def canbeint(text):
